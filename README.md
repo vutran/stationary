@@ -16,11 +16,11 @@
 
 | Name | Type | Mechanism | Image |
 | :--- | :--- | :--- | :--- |
-| Lamy Safari Rollerball Pen | Rollerball | Cap | ![](./images/pen/lamy-safari-rollerball-pen.jpg) |
-| Lamy Safari Fountain Pen | Fountain | Cap | ![](./images/pen/lamy-safari-fountain-pen.jpg) |
-| Sharpie 28101 Accent Retractable Highlighters | Highlighter | Retractable | ![](./images/pen/sharpie-28101-highlighter.jpg) |
-| Kuretake No. 8 Fountain Brush Pen (DP150-8B) | Brush | Cap | ![](./images/pen/kuretake-no-8-brush-pen.jpg) |
-| uni-ball Signo 207 | Rollerball | Retractable | Gel | ![](./images/pen/uni-ball-signo-207.jpg) |
+| Lamy Safari Rollerball Pen | Rollerball | Cap | [View](./images/pen/lamy-safari-rollerball-pen.jpg) |
+| Lamy Safari Fountain Pen | Fountain | Cap | [View](./images/pen/lamy-safari-fountain-pen.jpg) |
+| Sharpie 28101 Accent Retractable Highlighters | Highlighter | Retractable | [View](./images/pen/sharpie-28101-highlighter.jpg) |
+| Kuretake No. 8 Fountain Brush Pen (DP150-8B) | Brush | Cap | [View](./images/pen/kuretake-no-8-brush-pen.jpg) |
+| uni-ball Signo 207 | Rollerball | Retractable | Gel | [View](./images/pen/uni-ball-signo-207.jpg) |
 
 ## Misc
 
