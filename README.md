@@ -18,7 +18,7 @@
 | :--- | :--- | :--- | :--- |
 | Lamy Safari Rollerball Pen | Rollerball | Cap | [View](./images/pens/lamy-safari-rollerball-pen.jpg) |
 | Lamy Safari Fountain Pen | Fountain | Cap | [View](./images/pens/lamy-safari-fountain-pen.jpg) |
-| Sharpie 28101 Accent Retractable Highlighters | Highlighter | Retractable | [View](./images/pens/sharpie-28101-highlighter.jpg) |
+| Sharpie 28101 Accent Retractable Highlighters | Highlighter | Retractable | [View](./images/pens/sharpie-28101-highlighter.jpeg) |
 | Kuretake No. 8 Fountain Brush Pen (DP150-8B) | Brush | Cap | [View](./images/pens/kuretake-no-8-brush-pen.jpg) |
 | uni-ball Signo 207 | Gel | Retractable | [View](./images/pens/uni-ball-signo-207.jpg) |
 
