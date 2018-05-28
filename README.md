@@ -21,6 +21,7 @@
 | Sharpie 28101 Accent Retractable Highlighters | Highlighter | Retractable | [View](./images/pens/sharpie-28101-highlighter.jpeg) |
 | Kuretake No. 8 Fountain Brush Pen (DP150-8B) | Brush | Cap | [View](./images/pens/kuretake-no-8-brush-pen.jpg) |
 | uni-ball Signo 207 | Gel | Retractable | [View](./images/pens/uni-ball-signo-207.jpg) |
+| uni-ball Pilot G-2 07 | Gel | Retractable | [View](./images/pens/uni-ball-pilot-g-2-07.jpg) |
 
 ## Misc
 
